@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick & simple.
 no-fastforward model test. 
-bug is fixed.
+issue-101 bug is fixed.
