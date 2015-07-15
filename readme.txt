@@ -6,3 +6,4 @@ Creating a new branch is quick & simple.
 no-fastforward model test. 
 issue-101 bug is fixed.
 developing is continuing.
+colorful is testing.
